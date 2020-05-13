@@ -1,9 +1,4 @@
-# OC_projet2_netli
-Création d'un site en HTML / CSS + BOOSTRAP ainsi que l'écriture du cahier des charges
-
 # OC_projet3 [Festival des films en plein air](http://festivaldesfilms.org/)
-
-
 
 Jennifer Edwards est l'organisatrice du Festival des Films de Plein Air. Elle ambitionne de sélectionner et projeter des films d'auteur en plein air du 5 au 8 août au parc Monceau à Paris.
 
